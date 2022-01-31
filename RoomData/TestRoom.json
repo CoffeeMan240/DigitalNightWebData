@@ -2,5 +2,5 @@
   "RoomName": "TestRoom"
   "RoomMaxPlayers": 1
   "RoomDescription": "This Room is a test room, join it and die."
-  "RoomImageURL": "https://wpamelia.com/wp-content/uploads/2019/04/Lipsum.jpg"
+  "RoomImageURL": "https://raw.githubusercontent.com/CoffeeMan240/DigitalNightWebData/main/Images/DummyRoomIcon.png"
 }
