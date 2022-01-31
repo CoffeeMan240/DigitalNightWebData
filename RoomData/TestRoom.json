@@ -1,6 +1,6 @@
 {
-  "RoomName":"TestRoom",
+  "RoomName": "TestRoom",
   "RoomMaxPlayers": "1",
   "RoomDescription": "This room is a test room, join it and die.",
-  "RoomImageURL":"https://raw.githubusercontent.com/CoffeeMan240/DigitalNightWebData/main/Images/DummyRoomIcon.png"
+  "RoomImageURL": "https://raw.githubusercontent.com/CoffeeMan240/DigitalNightWebData/main/Images/DummyRoomIcon.png"
 }
