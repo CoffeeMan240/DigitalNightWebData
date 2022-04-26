@@ -1,3 +1,3 @@
-# DigitalNightWebData
-Data for Digital Night stored... well... digitally.
-Coming soon in DN 1.0!
+# DigitalNightWebData (Privacy Branch)
+This Branch is used for the Privacy Policy Oculus Requires you to make to publish to app lab
+
